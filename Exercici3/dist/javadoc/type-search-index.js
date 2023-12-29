@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"exercici3","l":"CalcularResultados"},{"p":"figuras","l":"Circulo"},{"p":"figuras","l":"Cuadrado"},{"p":"exercici3","l":"Exercici3"},{"p":"exercici3","l":"Figura"},{"p":"exercici3","l":"GenerarFiguras"},{"p":"figuras","l":"Rectangulo"},{"p":"figuras","l":"Triangulo"}];updateSearchResults();
