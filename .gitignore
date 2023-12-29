@@ -3,3 +3,5 @@
 
 # Ignorar la carpeta "TrabajosZip"
 /TrabajosZip/
+
+*.zip
