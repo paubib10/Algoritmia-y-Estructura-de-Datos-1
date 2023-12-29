@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"hanoi","l":"Hanoi"},{"p":"hanoi","l":"HanoiImpl"},{"p":"hanoi","l":"Move"}];updateSearchResults();
