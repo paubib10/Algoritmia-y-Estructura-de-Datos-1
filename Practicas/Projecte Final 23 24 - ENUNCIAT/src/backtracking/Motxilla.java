@@ -10,7 +10,7 @@ package backtracking;
  * nostre problema de la Motxilla ha de determinar quins elements 
  * ha d'incloure una col·lecció de forma que cada pes sigui inferior o 
  * igual a un límit determinat i el profit sigui el més gran possible.
- * @author antoni
+ * @author @author Pau Toni Bibiloni Martínez &amp; Blanca Atienzar Martínez
  */
 public interface Motxilla {
     /**

@@ -7,7 +7,8 @@ package backtracking;
 /**
  * Element per a la motxilla emmagatzema de l'element informació genèrica, el
  * pes 1 (weight1>=0), el pes2 (weight2>=0) i el profit>=0.
- * @author antoni
+ * 
+ * @author Pau Toni Bibiloni Martínez &amp; Blanca Atienzar Martínez
  */
 public class ElementMotxilla<E> {
 
@@ -18,13 +19,14 @@ public class ElementMotxilla<E> {
 
     /**
      * Permet construir un element per a la motxilla
+     * 
      * @param element Informació genèrica de l'element
      * @param weigth1 >=0, pes1 de l'element
      * @param weigth2 >=0, pes2 de l'element
-     * @param profit >=0, profit de l'element
+     * @param profit  >=0, profit de l'element
      */
     public ElementMotxilla(E element, double weigth1, double weigth2, double profit) {
-        if((weigth1<0)||(weigth2<0)||(profit<0)) 
+        if ((weigth1 < 0) || (weigth2 < 0) || (profit < 0))
             throw new IllegalArgumentException("weigth1, weigth2 "
                     + "i profit han de ser >= 0 ");
         this.element = element;
@@ -35,6 +37,7 @@ public class ElementMotxilla<E> {
 
     /**
      * Getter Element
+     * 
      * @return Informació genèrica de l'element
      */
     public E getElement() {
@@ -43,15 +46,16 @@ public class ElementMotxilla<E> {
 
     /**
      * Getter weight1
+     * 
      * @return pes1 de l'element
      */
     public double getWeigth1() {
         return weigth1;
     }
 
-
     /**
      * Getter weight2
+     * 
      * @return pes2 de l'element
      */
     public double getWeigth2() {
@@ -60,6 +64,7 @@ public class ElementMotxilla<E> {
 
     /**
      * Getter profit
+     * 
      * @return profit de l'element
      */
     public double getProfit() {
@@ -68,6 +73,7 @@ public class ElementMotxilla<E> {
 
     /**
      * D'un conjunt de l'elements per a la motilla calcula el profit total
+     * 
      * @param result conjunt d'elements per a la motxilla
      * @return suma de tots els profits
      */
@@ -81,6 +87,7 @@ public class ElementMotxilla<E> {
 
     /**
      * D'un conjunt de l'elements per a la motilla calcula el weigt1 total
+     * 
      * @param result conjunt d'elements per a la motxilla
      * @return suma de tots els weight1
      */
@@ -94,6 +101,7 @@ public class ElementMotxilla<E> {
 
     /**
      * D'un conjunt de l'elements per a la motilla calcula el weight2 total
+     * 
      * @param result conjunt d'elements per a la motxilla
      * @return suma de tots els weight2
      */

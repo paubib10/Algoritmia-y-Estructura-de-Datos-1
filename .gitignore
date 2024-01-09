@@ -6,3 +6,6 @@
 
 # Ignorar archivos ZIP
 *.zip
+/Projecte Final 23 24 - ENUNCIAT/build/
+/Projecte Final 23 24 - ENUNCIAT/dist/
+/Projecte Final 23 24 - ENUNCIAT/nbproject/private/

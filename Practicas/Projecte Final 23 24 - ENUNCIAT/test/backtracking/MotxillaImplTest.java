@@ -8,7 +8,7 @@ import static org.junit.Assert.*;
  * Pruebas para la implementación de Motxilla. Se utilizan diferentes casos para
  * los métodos recursivo e iterativo.
  *
- * @author antoni
+ * @author Pau Toni Bibiloni Martínez &amp; Blanca Atienzar Martínez
  */
 public class MotxillaImplTest {
 
