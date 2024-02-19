@@ -27,6 +27,27 @@ Bienvenido al repositorio de Algoritmia y Estructura de Datos I. Aquí encontrar
 
 8. **Matrices y Búsquedas:**
    - Implementar clase para multiplicación de matrices y búsquedas lineales/binarias en conjunto ordenado.
+  
+9. **Cima de un conjunto de elementos:**
+   - Encontrar el elemento máximo en un conjunto de elementos dados.
+
+10. **Torres de Hanoi:**
+    - Implementar el famoso problema de las Torres de Hanoi y analizar su complejidad.
+
+11. **Matriz simétrica:**
+    - Verificar si una matriz dada es simétrica o no.
+
+12. **Problema de subconjuntos que sumen M (Subset Sum M):**
+    - Dado un conjunto de números, determinar si existe un subconjunto cuya suma sea igual a M.
+
+13. **Ordenación con montículo:**
+    - Implementar el algoritmo de ordenación mediante montículo (Heap Sort).
+
+14. **Problema de la mochila (Knapsack):**
+    - Resolver el clásico problema de la mochila utilizando diferentes enfoques (recursivo e iterativo).
+
+15. **Problema MapColor (recursivo e iterativo):**
+    - Resolver el problema de colorear un mapa de manera que no haya dos regiones adyacentes con el mismo color, utilizando enfoques recursivos e iterativos.
      
 ## Contribuciones
 
